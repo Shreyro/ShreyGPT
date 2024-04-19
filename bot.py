@@ -2,7 +2,7 @@ import gradio as gr
 import openai
 
 # Set your OpenAI API key here
-openai.api_key = "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"
+openai.api_key = "API KEY"
 
 def chatbot(input_text):
     # Call the OpenAI API to generate a response
